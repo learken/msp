@@ -1,0 +1,9 @@
+
+[limits]
+	min_self = 0.01
+	max_self = 10.0
+	min_entities = 0.01
+	max_entities = 10.0
+	min_automatic = 0.01
+	max_automatic = 10.0
+
